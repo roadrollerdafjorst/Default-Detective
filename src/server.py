@@ -39,9 +39,8 @@ class FeaturesData(BaseModel):
     NAICS_code: int
     New: int
     Recession: int
-    
-    RealEstate: int
     SBA_Guaranteed_Portion: float
+    RealEstate: int
     
 
 # Prediciton path
