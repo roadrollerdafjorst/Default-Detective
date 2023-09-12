@@ -23,11 +23,11 @@ The Dataset used for the project is historical loan data from Small Business Adm
 
 - Change the directory to the src folder and run the FastAPI server.
     
-      ```sh uvicorn server:app --reload ```
+    ```sh uvicorn server:app --reload ```
 
 - Run the Streamlit app from root directory.
 
-      ```sh streamlit run app.py ```
+    ```sh streamlit run app.py ```
 
 ## References
 
