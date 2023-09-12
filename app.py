@@ -55,6 +55,8 @@ term = st.sidebar.slider("What is the Loan term in months?", min_value=0, max_va
 
 #---------------Prediction----------------
 if selected2 == "Predict":
+    st.image("static/images/pred2.jpeg")
+    
     # Prediction button
     prediction = st.button("Get Predictions", use_container_width=True)
 
