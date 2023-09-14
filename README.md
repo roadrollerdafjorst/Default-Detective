@@ -3,7 +3,7 @@
 In an increasingly complex financial landscape, the ability to accurately predict loan default risk has become paramount for financial institutions, lenders, and investors. This project aims to develop a robust and data-driven solution for loan default prediction, leveraging data preprocessing and feature engineering techniques, extensive data analysis and state-of-the-art machine learning algorithms. 
 
 ## Dataset
-The Dataset used for the project is historical loan data from Small Business Administration (SBA) of the United States. The dataset contains 899,164 records and 27 features. The dataset is highly imbalanced with only 17.5% of the loans being defaulted. 
+The [Dataset](https://www.tandfonline.com/doi/figure/10.1080/10691898.2018.1434342?scroll=top&needAccess=true&role=tab) used for the project is historical loan data from Small Business Administration (SBA) of the United States. The dataset contains 899,164 records and 27 features. The dataset is highly imbalanced with only 17.5% of the loans being defaulted. 
 
 ## Requirements
 
